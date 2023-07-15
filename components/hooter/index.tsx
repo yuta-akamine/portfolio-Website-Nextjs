@@ -15,7 +15,7 @@ const footer = () => {
         <nav>
 
           <h1 className='maintitle nounderline topspace bottomspace'>
-            <a href='index.php' className=''>Akamine's Website</a>
+            <a href='index.php' className=''>Akamine&lsquo;s Website</a>
           </h1>
 
           <Grid container spacing={5}>
