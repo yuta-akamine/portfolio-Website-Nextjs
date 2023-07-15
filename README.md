@@ -1,3 +1,8 @@
+next.js環境でReactでコーディング中のWebサイトです。
+## URLは下記で公開しています。
+https://portfolio-website-nextjs-f1yojhgn5-yuta-akamine.vercel.app/
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
