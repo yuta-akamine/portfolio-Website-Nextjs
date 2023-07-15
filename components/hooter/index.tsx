@@ -14,26 +14,26 @@ const footer = () => {
 
         <nav>
 
-          <h1 className="maintitle nounderline topspace bottomspace">
-            <a href="index.php" className="">Akamine's Website</a>
+          <h1 className='maintitle nounderline topspace bottomspace'>
+            <a href='index.php' className=''>Akamine's Website</a>
           </h1>
 
           <Grid container spacing={5}>
 
             <Grid item xs={3}>
-              <a href="index.php">Home</a>
+              <a href='index.php'>Home</a>
             </Grid>
 
             <Grid item xs={3}>
-              <a href="profile.php">Profile</a>
+              <a href='profile.php'>Profile</a>
             </Grid>
 
             <Grid item xs={3}>
-              <a href="development.php">Development</a>
+              <a href='development.php'>Development</a>
             </Grid>
 
             <Grid item xs={3}>
-              <a href="skills.php">Skills</a>
+              <a href='skills.php'>Skills</a>
             </Grid>
 
           </Grid>
@@ -42,7 +42,7 @@ const footer = () => {
 
       </header>
 
-      <hr  className="bottomspace" />
+      <hr  className='bottomspace' />
 
     </Box>
 
