@@ -1,4 +1,6 @@
 next.js環境でReactでコーディング中のWebサイトです。
+リポジトリ名：PortfolioWebsite　で制作したWebサイトをこちらでリファクタリング中です。
+
 ## URLは下記で公開しています。
 https://portfolio-website-nextjs-f1yojhgn5-yuta-akamine.vercel.app/
 
